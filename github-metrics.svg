@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="975" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1846" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -31,17 +31,17 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -351,7 +351,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~0.40
+                            Average per day at ~0.39
                         </div>
                     </section>
                 </div>
@@ -1333,6 +1333,13 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
@@ -1350,13 +1357,8 @@
                             <div class="entry">
                                 <span class="value">9</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                3
-                                <div class="bottom">July</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 4
+                                <div class="bottom">July</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -1417,6 +1419,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 16
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                17
                             </div>
                         </div>
                     </section>
@@ -1426,13 +1433,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                3
-                                <div class="bottom">July</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 4
+                                <div class="bottom">July</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -1493,6 +1495,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 16
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                17
                             </div>
                         </div>
                     </section>
@@ -1507,11 +1514,327 @@
                 </h2>
                 <div class="row">
                     <section>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M1.75 1.5a.25.25 0 00-.25.25v9.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h6.5a.25.25 0 00.25-.25v-9.5a.25.25 0 00-.25-.25H1.75zM0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0114.25 13H8.06l-2.573 2.573A1.457 1.457 0 013 14.543V13H1.75A1.75 1.75 0 010 11.25v-9.5zM9 9a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"/>
-                            </svg>
-                            No recent activity
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">StartForKiller/Grasscutter-Quests</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">activity_dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6f650b6</div>
+                                        <div class="message">Small fixes to suites and dynamic groups</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 24 commits in
+                                        <span class="repo">StartForKiller/Grasscutter-Quests</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">quests</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#72874ed</div>
+                                        <div class="message">Refactored Trial Avatar relevant code (#68)
+
+
+* Moved trial avatar to a separate class for easier management
+
+* Mainly refactored team manager.
+Moved the response packets to their handler so that the functions in team manager is more reusable.
+
+* Refactored adding and removing TrialAvatar for dungeons/activity. Have the TrialAvatars added through their corresponding handler if not specifically called by enter dungeon request.
+
+* Added interfaces for both original excels and custom data, so that it can perform polymorphic calls.
+
+* Added implementation for Element trial dungeon. It is impossible to complete though. Since challenges are practically broken
+
+* Moved around some stuff so that the addition and removal of the trial avatars for quest and dungeons work well.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#151a325</div>
+                                        <div class="message">Merge pull request #66 from Anime-Game-Servers/small-fixes
+
+[Fixes/Features] More upstream backports+small fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4dae0d1</div>
+                                        <div class="message">[Fix] fixed building</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7653364</div>
+                                        <div class="message">[Fixes/Features] More upstream backports
+* [Fix] Added missing VissionLevelType defintions (thx @eternalcomet )
+* [Fix/refactoring] Fix mailsystem on 3.0+ (thx @hamusuke0323 and @KingRainbow44 )
+* [Opcodes] Add propper names for some opcodes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c06b75c</div>
+                                        <div class="message">[Fixes] upstream fixes
+* [Fix] Fixed displaying of boss names (thx @eternalcomet )
+* [Fix] Fixed sceneRegion size handling (thx @scooterboo )
+* [Fix] Add missing fields in scene objects (thx @ ZanyRain )
+* [Fix] Add some extra null handling in GameMainQuest (thx @ZanyRain )</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2877f5</div>
+                                        <div class="message">[Fix] fixed finishing quests and mainquests after my command changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c1e9ee</div>
+                                        <div class="message">[Fixes/Features] More upstream backports
+* [Fix] Don't force finish quests on manual parent finish, only when doing it via command (thx @scooterboo )
+* [Fix] Fix climb stamina jump handling (thx @ NotThorny )
+* [Feature] Add coop lyre support (thx @Moistcrafter )
+* [Feature] Add ability to buy resin with primogems (thx @hamusuke0323 )</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7af549</div>
+                                        <div class="message">Merge pull request #65 from Anime-Game-Servers/small-fixes
+
+[Fixes] Multiple small fixes and starting to get code wise up to date with upstream</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#740b209</div>
+                                        <div class="message">[Codesmells] fix some codesmells form sonar cloud</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c34ad3</div>
+                                        <div class="message">[Dispatch] Support for CNREL (thx @rwx9032 and @xlpmyxhdr )</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dbcdc9c</div>
+                                        <div class="message">[Fix] More small fixes
+* Fix compount data groupId deseralize (thx @NotThorny )
+* add NEXBoolean to Dynamic fleat (thx @Lemon-miaow )
+* Unlock hidden points (thx @ghjbvvgh )</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0803cb6</div>
+                                        <div class="message">[Fix] multiple small fixes and refactorings
+* Fix permission for sound command (thx @jie65535 )
+* Trigger is dayTime condition
+* Implement Quest exec set game time
+* Add force flag to changeTime
+* Use lombok to generate the equals and hashcode for SceneTrigger (thx @scooterboo)
+* Add two missing scriptlib functions and an enum (thx @ scooterboo )</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bd67a88</div>
+                                        <div class="message">Merge pull request #64 from Anime-Game-Servers/generated_quests
+
+Use the generated quests from the resource patcher+small other changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6154172</div>
+                                        <div class="message">[Proto] add missing proto</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb0bd62</div>
+                                        <div class="message">[Bugfix] don't spawn garbages, since they are removed entities</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#58a29c1</div>
+                                        <div class="message">[Refactoring] More cleanups for using generated quests</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e41e719</div>
+                                        <div class="message">[refactor/feature] Implement gameTime locking and change GameTime handling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2e35159</div>
+                                        <div class="message">[Fixes/refactoring] some small fixes for generated quests and improvements around quests and region events
+* Improved enter and leave region logic a bit and made them group dependend
+* Marked paramStr as nulleable and handle the null case
+* Added some quest status debugging commands and allow using multiple quests and parent quest as parameter
+*</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4cb5732</div>
+                                        <div class="message">some more quest fixes and refactorings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb1f8fc</div>
+                                        <div class="message">[WIP/POC] use the generated quests frmo the resource patcher
+* also use gainItems instead of hardcoding amber</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 24 commits in
+                                        <span class="repo">StartForKiller/Grasscutter-Quests</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">quests</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#72874ed</div>
+                                        <div class="message">Refactored Trial Avatar relevant code (#68)
+
+
+* Moved trial avatar to a separate class for easier management
+
+* Mainly refactored team manager.
+Moved the response packets to their handler so that the functions in team manager is more reusable.
+
+* Refactored adding and removing TrialAvatar for dungeons/activity. Have the TrialAvatars added through their corresponding handler if not specifically called by enter dungeon request.
+
+* Added interfaces for both original excels and custom data, so that it can perform polymorphic calls.
+
+* Added implementation for Element trial dungeon. It is impossible to complete though. Since challenges are practically broken
+
+* Moved around some stuff so that the addition and removal of the trial avatars for quest and dungeons work well.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#151a325</div>
+                                        <div class="message">Merge pull request #66 from Anime-Game-Servers/small-fixes
+
+[Fixes/Features] More upstream backports+small fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4dae0d1</div>
+                                        <div class="message">[Fix] fixed building</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7653364</div>
+                                        <div class="message">[Fixes/Features] More upstream backports
+* [Fix] Added missing VissionLevelType defintions (thx @eternalcomet )
+* [Fix/refactoring] Fix mailsystem on 3.0+ (thx @hamusuke0323 and @KingRainbow44 )
+* [Opcodes] Add propper names for some opcodes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c06b75c</div>
+                                        <div class="message">[Fixes] upstream fixes
+* [Fix] Fixed displaying of boss names (thx @eternalcomet )
+* [Fix] Fixed sceneRegion size handling (thx @scooterboo )
+* [Fix] Add missing fields in scene objects (thx @ ZanyRain )
+* [Fix] Add some extra null handling in GameMainQuest (thx @ZanyRain )</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2877f5</div>
+                                        <div class="message">[Fix] fixed finishing quests and mainquests after my command changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c1e9ee</div>
+                                        <div class="message">[Fixes/Features] More upstream backports
+* [Fix] Don't force finish quests on manual parent finish, only when doing it via command (thx @scooterboo )
+* [Fix] Fix climb stamina jump handling (thx @ NotThorny )
+* [Feature] Add coop lyre support (thx @Moistcrafter )
+* [Feature] Add ability to buy resin with primogems (thx @hamusuke0323 )</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7af549</div>
+                                        <div class="message">Merge pull request #65 from Anime-Game-Servers/small-fixes
+
+[Fixes] Multiple small fixes and starting to get code wise up to date with upstream</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#740b209</div>
+                                        <div class="message">[Codesmells] fix some codesmells form sonar cloud</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c34ad3</div>
+                                        <div class="message">[Dispatch] Support for CNREL (thx @rwx9032 and @xlpmyxhdr )</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dbcdc9c</div>
+                                        <div class="message">[Fix] More small fixes
+* Fix compount data groupId deseralize (thx @NotThorny )
+* add NEXBoolean to Dynamic fleat (thx @Lemon-miaow )
+* Unlock hidden points (thx @ghjbvvgh )</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0803cb6</div>
+                                        <div class="message">[Fix] multiple small fixes and refactorings
+* Fix permission for sound command (thx @jie65535 )
+* Trigger is dayTime condition
+* Implement Quest exec set game time
+* Add force flag to changeTime
+* Use lombok to generate the equals and hashcode for SceneTrigger (thx @scooterboo)
+* Add two missing scriptlib functions and an enum (thx @ scooterboo )</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bd67a88</div>
+                                        <div class="message">Merge pull request #64 from Anime-Game-Servers/generated_quests
+
+Use the generated quests from the resource patcher+small other changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6154172</div>
+                                        <div class="message">[Proto] add missing proto</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb0bd62</div>
+                                        <div class="message">[Bugfix] don't spawn garbages, since they are removed entities</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#58a29c1</div>
+                                        <div class="message">[Refactoring] More cleanups for using generated quests</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e41e719</div>
+                                        <div class="message">[refactor/feature] Implement gameTime locking and change GameTime handling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2e35159</div>
+                                        <div class="message">[Fixes/refactoring] some small fixes for generated quests and improvements around quests and region events
+* Improved enter and leave region logic a bit and made them group dependend
+* Marked paramStr as nulleable and handle the null case
+* Added some quest status debugging commands and allow using multiple quests and parent quest as parameter
+*</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4cb5732</div>
+                                        <div class="message">some more quest fixes and refactorings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb1f8fc</div>
+                                        <div class="message">[WIP/POC] use the generated quests frmo the resource patcher
+* also use gainItems instead of hardcoding amber</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">StartForKiller/Grasscutter-Quests</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">activity_dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#aab926d</div>
+                                        <div class="message">Add a sample implementation for projectors</div>
+                                    </div>
+                                </div>
+                            </section>
                         </div>
                     </section>
                 </div>
@@ -1536,7 +1859,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Jul 2023, 03:53:49 (timezone Europe/Madrid) with lowlighter/metrics@3.28.0-beta</span>
+                <span>Last updated 17 Jul 2023, 03:47:53 (timezone Europe/Madrid) with lowlighter/metrics@3.28.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
